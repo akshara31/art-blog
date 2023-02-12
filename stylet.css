@@ -1,0 +1,16 @@
+body{
+  background-color: #474e5d;
+  color: white;
+  font-family: 'Garamond',serif;
+  text-align: center;
+  }
+
+
+h1{
+  margin: 75px 200px 25px 200px;
+}
+
+img{
+  height: 200px;
+  width: 200px;
+}
